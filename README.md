@@ -24,6 +24,12 @@
   Passionate about building interactive web applications and learning new technologies. Always ready to contribute and collaborate on innovative ideas.
 </p>
 
+## 📊 GitHub Stats
+
+![Nure-Anha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nure-Anha&show_icons=true&theme=dark)
+
+
+
 
 
 <details>
@@ -53,15 +59,3 @@
   </p>
 
 </details>
-
-
-
-<p align="right">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nure-Anha&show_icons=true&theme=dark"
-    width="45%"
-  />
-</p>
-
-
-
