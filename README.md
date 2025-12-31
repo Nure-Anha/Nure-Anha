@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/https://www.facebook.com/handi.ercel.77"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nure-anha-41892a1b8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/nure-anha-41892a1b8"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
  <a href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
 </p>
 
