@@ -8,7 +8,7 @@
  <a href="https://wa.me/8801836349141" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
 </p>
 
-<h1 align="center">Hi, I'm Nure Anha Tamanna</h1>
+<h3 align="left">About Me</h3>
 <h3 align="center">Frontend Developer | React | Tailwind CSS</h3>
 
 <p align="center">
@@ -17,20 +17,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-
+</p>
+<p align="justify">
+I'm Nure Anha Tamanna, a Frontend Developer passionate about building responsive, user-friendly web applications. 
+I specialize in React, Tailwind CSS, and modern JavaScript, creating interactive and visually appealing web experiences. 
+I love learning new technologies, contributing to open-source projects, and collaborating on exciting web development projects.
 </p>
 
-<p align="center">
-  Frontend Developer focused on building responsive, user-friendly web applications.<br/>
-  Strong in React, Tailwind CSS, and modern JavaScript.<br/>
-  Open to internships, junior roles, and collaborative projects.
-</p>
+
+
+
+<h3 align="left">Current Activities</h3>
+<ul>
+  <li>Working on Frontend projects with React & Tailwinds</li>
+  <li>Learning Advanced React & Backend basics</li>
+  <li>Passionate to become a professional Full Stack Developer</li>
+</ul>
 
 
 <h3 align="left">Current Stats </h3>
 <p align="center">
   <img src="https://github-readme-stats-ouuan.vercel.app/api?username=Nure-Anha&show_icons=true&theme=tokyonight" width="48%" />
 </p>
+
+
+<h3 align="left">Languages Used</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+</p>
+
+
 
 
 <h3 align="left">Where to find me</h3>
