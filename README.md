@@ -41,19 +41,6 @@ I love learning new technologies, contributing to open-source projects, and coll
 </p>
 
 
-<h3 align="left">Languages Used</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-</p>
-
-
 
 
 <h3 align="left">Where to find me</h3>
@@ -100,3 +87,21 @@ I love learning new technologies, contributing to open-source projects, and coll
   </p>
 
 </details>
+
+
+<h3>Most Used Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=Nure-Anha&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+
+
+<h3 align="left">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Nure-Anha&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
